@@ -3,4 +3,4 @@ This is our new repo  for midterm.
 
 Our topic name is about tea and coffee.
 My partner is Parneet Kaur.
-we are going to make this assignment together.
+we are going to make this assignment together...
